@@ -35,7 +35,7 @@ La salida de respaldo permite continuar aunque LigQ2 Web esté temporalmente ocu
 - Guardá una copia propia de la notebook si querés conservar tus exploraciones.
 
 ## Target Pathogen
-[Abrir Target Pathogen Web] http://targetsbg.cluster.qb.fcen.uba.ar/patho/
+[Abrir Target Pathogen Web](http://targetsbg.cluster.qb.fcen.uba.ar/patho/)
 
 ## LigQ2 Web
 
@@ -45,5 +45,5 @@ La notebook indica cuándo descargar los FASTA y cómo cargar el ZIP de resultad
 
 ## Otros repos
 
-[FastTarget] https://github.com/mcpalumbo/fasttarget
-[LigQ2]https://github.com/gschottlender/LigQ_2
+[FastTarget](https://github.com/mcpalumbo/fasttarget)
+[LigQ2](https://github.com/gschottlender/LigQ_2)
