@@ -1,0 +1,17 @@
+{
+  "organism": "Mycoplasmoides pneumoniae M129",
+  "target": {
+    "gene": "ligA",
+    "uniprot": "P78021"
+  },
+  "files": [
+    "manifest.json",
+    "fasttarget_resultados.tsv",
+    "P78021.fasta",
+    "AF_P78021.pdb",
+    "AF_P78021_pocket1_atm.pdb",
+    "AF_P78021_pocket1_vert.pqr",
+    "AF_P78021_fpocket_info.txt",
+    "ligq_ligA_results.zip"
+  ]
+}
