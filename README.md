@@ -1,6 +1,4 @@
-# Trabajo práctico: de blancos moleculares a candidatos a ligando
-
-Material para trabajar en clase con **FastTarget** y **LigQ2**. La actividad está pensada para realizarse en aproximadamente tres horas y no requiere entregar un informe.
+# Trabajo práctico: búsqueda de ligandos
 
 ## Abrir la notebook en Google Colab
 
