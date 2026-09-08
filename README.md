@@ -2,10 +2,9 @@
 
 ## Abrir la notebook en Google Colab
 
-1. Abrí [`TP_blancos_compuestos_Colab.ipynb`](TP_blancos_compuestos_Colab.ipynb).
-2. En GitHub, seleccioná **Open in Colab**. Si no aparece el botón, usá este enlace:
+1. Abrí la notebook con este enlace:
 
-   [Abrir la notebook en Colab](https://colab.research.google.com/github/USUARIO/REPOSITORIO/blob/main/TP_blancos_compuestos_Colab.ipynb)
+   [Abrir la notebook en Colab](https://colab.research.google.com/github/mcpalumbo/tp-ligandos/blob/main/TP_blancos_compuestos_Colab.ipynb)
 
 3. En Colab elegí **Entorno de ejecución → Ejecutar todas** o ejecutá las celdas en orden.
 
@@ -35,12 +34,16 @@ La salida de respaldo permite continuar aunque LigQ2 Web esté temporalmente ocu
 - Un score alto, un Tanimoto alto o una predicción ADMET favorable no demuestran actividad experimental.
 - Guardá una copia propia de la notebook si querés conservar tus exploraciones.
 
+## Target Pathogen
+[Abrir Target Pathogen Web] http://targetsbg.cluster.qb.fcen.uba.ar/patho/
+
 ## LigQ2 Web
 
 [Abrir LigQ2 Web](https://ligq.infra.cluster.qb.fcen.uba.ar)
 
 La notebook indica cuándo descargar los FASTA y cómo cargar el ZIP de resultados. Si el servicio no responde, podés trabajar con la salida de respaldo incluida.
 
-## Licencia
+## Otros repos
 
-El material se distribuye bajo la licencia indicada en [`LICENSE`](LICENSE).
+[FastTarget] https://github.com/mcpalumbo/fasttarget
+[LigQ2]https://github.com/gschottlender/LigQ_2
